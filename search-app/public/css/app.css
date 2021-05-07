@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+
+.float-child {
+    width: 100%;
+    float: left;
+    height: 100vh;
+
+}
+
